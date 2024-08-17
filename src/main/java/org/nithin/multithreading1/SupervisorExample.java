@@ -1,4 +1,4 @@
-package org.nithin;
+package org.nithin.multithreading1;
 
 public class SupervisorExample {
 
